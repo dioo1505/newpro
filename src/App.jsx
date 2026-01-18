@@ -1,9 +1,9 @@
-import React from 'react'
+import Abdulaziz from "./components/abdulaziz/Abdulaziz"
 
 const App = () => {
   return (
     <div>
-      
+      <Abdulaziz/>
     </div>
   )
 }
